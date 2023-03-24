@@ -19,7 +19,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 
 ## Get Early Acces
 
-[Join the ChatGPT plugins waitlist here!]([https://platform.openai.com/docs/plugins/getting-started](https://openai.com/waitlist/plugins))
+[Join the ChatGPT plugins waitlist here!](https://openai.com/waitlist/plugins)
 
 ## Offical Resources
 

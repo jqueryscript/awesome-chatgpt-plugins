@@ -32,6 +32,11 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 ## Offical Plugins
 
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries. 
+- [Browsing](https://openai.com/blog/chatgpt-plugins#browsing) - An experimental model that knows when and how to browse the internet.
+- [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - An experimental ChatGPT model that can use Python, handle uploads and downloads.
+
+## Third-party Plugins
+
 - [Expedia] - Bring your trip plans to life—get there, stay there, find things to see and do.
 - [FiscalNote] - Provides and enables access to select market-leading, real-time data sets for legal, political, and regulatory data and information.
 - [Instacart] - Order from your favorite local grocery stores.
@@ -43,10 +48,6 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Speak] - Learn how to say anything in another language with Speak, your AI-powered language tutor.
 - [Wolfram] - Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.
 - [Zapier] - Interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.
-
-## Third-party Plugins
-
-Coming Soon...
 
 ## More Resources
 

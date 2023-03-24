@@ -23,13 +23,13 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 
 [Join the ChatGPT plugins waitlist here!](https://openai.com/waitlist/plugins)
 
-## Offical Resources
+## Official Resources
 
 - [Getting started With Creating A ChatGPT Plugin](https://platform.openai.com/docs/plugins/getting-started)
 - [Example plugins](https://platform.openai.com/docs/plugins/examples)
 - [Plugin policies](https://openai.com/policies/usage-policies#plugin-policies)
 
-## Offical Plugins
+## Official Plugins
 
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries. 
 - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing) - An experimental model that knows when and how to browse the internet.

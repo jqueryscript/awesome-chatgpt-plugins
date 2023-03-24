@@ -45,3 +45,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 ## Third-party Plugins
 
 Coming Soon...
+
+## More Resources
+
+- [ChatGPT-Resources](Curated list of awesome libraries, extensions, tools, apps for ChatGPT.)

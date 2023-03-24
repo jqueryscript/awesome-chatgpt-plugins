@@ -13,6 +13,9 @@ An awesome &amp; curated list of best plugins for ChatGPT.
 
 ## What Are ChatGPT Plugins?
 
+<video src="https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4" controls="controls">
+</video>
+
 ChatGPT plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.
 
 OpenAI plugins connect ChatGPT to third-party applications. These plugins enable ChatGPT to interact with APIs defined by developers, enhancing ChatGPT's capabilities and allowing it to perform a wide range of actions.

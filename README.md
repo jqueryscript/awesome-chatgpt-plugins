@@ -5,7 +5,7 @@
   <br />
 </p>
 
-<h1 align="center">ChatGPT Resources</h1>
+<h1 align="center">Awesome ChatGPT Plugins</h1>
 
 <p align="center">
 An awesome &amp; curated list of best plugins for ChatGPT.

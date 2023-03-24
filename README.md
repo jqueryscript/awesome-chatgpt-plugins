@@ -17,6 +17,10 @@ ChatGPT plugins are tools designed specifically for language models with safety 
 
 OpenAI plugins connect ChatGPT to third-party applications. These plugins enable ChatGPT to interact with APIs defined by developers, enhancing ChatGPT's capabilities and allowing it to perform a wide range of actions.
 
+## Get Early Acces
+
+[Join the ChatGPT plugins waitlist here!]([https://platform.openai.com/docs/plugins/getting-started](https://openai.com/waitlist/plugins))
+
 ## Offical Resources
 
 - [Getting started With Creating A ChatGPT Plugin](https://platform.openai.com/docs/plugins/getting-started)
@@ -37,3 +41,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Speak] - Learn how to say anything in another language with Speak, your AI-powered language tutor.
 - [Wolfram] - Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.
 - [Zapier] - Interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.
+
+## Third-party Plugins
+
+Coming Soon...

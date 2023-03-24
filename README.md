@@ -48,4 +48,4 @@ Coming Soon...
 
 ## More Resources
 
-- [ChatGPT-Resources](Curated list of awesome libraries, extensions, tools, apps for ChatGPT.)
+- [ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.

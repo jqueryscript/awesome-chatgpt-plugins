@@ -48,6 +48,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Speak] - Learn how to say anything in another language with Speak, your AI-powered language tutor.
 - [Wolfram] - Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.
 - [Zapier] - Interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.
+- [humanjobs](https://github.com/woniesong92/humanjobs) - A ChatGPT Plugin that lets ChatGPT create job postings only for humans.
 
 ## More Resources
 

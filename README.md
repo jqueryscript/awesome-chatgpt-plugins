@@ -51,6 +51,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [humanjobs](https://github.com/woniesong92/humanjobs) - A ChatGPT Plugin that lets ChatGPT create job postings only for humans.
 - [ethgpt](https://github.com/xinbenlv/ethgpt) - ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities.
 - [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT Universal Terminal / Command Line Plugin.
+- [bra1nDump](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in seconds without even leaving the chat.
 
 ## More Resources
 

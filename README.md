@@ -466,6 +466,8 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 | Creatuity Stores               | We integrate stores so you can search for products in all of them at the same time.                                                                             |
 | Exchange Rates                 | Exchange Rates delivers real-time and historical data, enabling conversion and tracking for over 170 currencies.                                                |
 | Netlify Drop                   | Describe a simple website you want to make, and deploy it to Netlify to share it with others and claim it as your own.                                          |
+| SEO CORE AI                    | Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.
+                |
                                       |
 
 ## Third-party Plugins

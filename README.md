@@ -423,8 +423,6 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 | WebPilot                       | Browse &amp; QA Webpage/PDF/Data. Generate articles, from one or more URLs.                                                                                     |
 | Pixellow                       | Unveiling image insights, aiding understanding, and creating detailed captions and descriptions.                                                                |
 | Video Insights                 | Interact with online video platforms like Youtube or Daily Motion.                                                                                              |
-| SEO CORE AI                    | Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.
-                |
 | ML Paper Reader                | Search for ML papers on different topics and speed up research by &quot;talking&quot; to the PDFs.                                                              |
 | Reminders                      | Add, remove, list and tag reminders.                                                                                                                            |
 | MomentX GuideX                 | It gives real-time info on our store, including brand locations and promotions.                                                                                 |

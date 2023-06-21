@@ -475,6 +475,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT Universal Terminal / Command Line Plugin.
 - [bra1nDump](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in seconds without even leaving the chat.
 - [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - A TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code.
+- [kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
 
 ## More Resources
 

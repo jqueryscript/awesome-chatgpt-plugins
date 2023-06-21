@@ -423,7 +423,8 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 | WebPilot                       | Browse &amp; QA Webpage/PDF/Data. Generate articles, from one or more URLs.                                                                                     |
 | Pixellow                       | Unveiling image insights, aiding understanding, and creating detailed captions and descriptions.                                                                |
 | Video Insights                 | Interact with online video platforms like Youtube or Daily Motion.                                                                                              |
-| ML Paper Reader                | Search for ML papers on different topics and speed up research by &quot;talking&quot; to the PDFs.                                                              |
+| SEO CORE AI                    | Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.                                                           |
+| ML Paper Reader                | Search for ML papers on different topics and speed up research by "talking" to the PDFs.                                                                        |
 | Reminders                      | Add, remove, list and tag reminders.                                                                                                                            |
 | MomentX GuideX                 | It gives real-time info on our store, including brand locations and promotions.                                                                                 |
 | PortfoliosLab                  | Stocks, ETFs, funds, crypto analysis: historical performance, volatility, risk metrics, Sharpe ratio, drawdowns, etc.                                           |
@@ -466,7 +467,29 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 | Creatuity Stores               | We integrate stores so you can search for products in all of them at the same time.                                                                             |
 | Exchange Rates                 | Exchange Rates delivers real-time and historical data, enabling conversion and tracking for over 170 currencies.                                                |
 | Netlify Drop                   | Describe a simple website you want to make, and deploy it to Netlify to share it with others and claim it as your own.                                          |
-| SEO CORE AI                    | Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.
+| AskYourCode                    | Ask your source code directly. The intelligent rubber ducky!                                                                                                    |
+| Coupons by Tenere              | TenereTeam.com - Get the Best Deals &amp; Coupons on Millions of Products At Over 50,000 Online Stores.                                                         |
+| TimeNavi                       | Interact with your calendar. Analyze and create events, understand and plan your time better.                                                                   |
+| Ai Tool Hunt                   | Explore the ideal AI solutions for all use cases, drawn from the most comprehensive global database of AI tools.                                                |
+| Vio.com                        | A better deal on your next hotel, motel or accommodation booking.                                                                                               |
+| Open Archives                  | Search the genealogical data of Dutch and Belgian archives and societies via Open Archives.                                                                     |
+| Crypto Price Checker           | A Crypto Prices app that takes a pair of crypto or fiat tickers and returns the current price of the pair.                                                      |
+| LGTM                           | Search for LGTM Markdown.                                                                                                                                       |
+| MomentX GuideX                 | It gives real-time info on our store, including brand locations and promotions.                                                                                 |
+| Message in a Bottle            | Throw a message into the digital ocean, or grab one floating by. You are not alone.                                                                             |
+| Duoduo English                 | Learn and practice English for Duolingo English Test.                                                                                                           |
+| NJSI Beta by SSG               | National Jobs Skills Intelligence. Skillsfuture Singapore AI Graph for insights and relationships in the JS landscape.                                          |
+| CoderPad                       | Run code in more than 30 different programming languages, and let us worry about setting up the environment!                                                    |
+| instabase                      | Search for rooms and venues all across Japan from instabase.                                                                                                    |
+| Top Agencies                   | Find top marketing and design agencies around the World by service, locations, and ratings.                                                                     |
+| Bookworm                       | AI-powered personalized book recommendations, scanning countless titles to find your perfect read.                                                              |
+| ChatWithWebsite                | Have a conversation with any website, powered by magicform.ai.                                                                                                  |
+| Finna Bolag                    | Seamlessly search for and retrieve Swedish companies' financial data.                                                                                           |
+| PTCG price research            | It fetches the latest prices of Pokémon Cards within Japan.                                                                                                     |
+| Isotonix                       | Isotonix products search.                                                                                                                                       |
+| TickTick                       | TickTick for managing a TODO list, you can add, remove and view your TODOs.                                                                                     |
+| ProApp Learn Design            | Level up your design skills quickly with a wide range of design courses, interactive workshops and AI-guided...                                                 |
+
 
 ## Third-party Plugins
 

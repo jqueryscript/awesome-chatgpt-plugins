@@ -19,10 +19,6 @@ ChatGPT plugins are tools designed specifically for language models with safety 
 
 OpenAI plugins connect ChatGPT to third-party applications. These plugins enable ChatGPT to interact with APIs defined by developers, enhancing ChatGPT's capabilities and allowing it to perform a wide range of actions.
 
-## Get Early Access
-
-[Join the ChatGPT plugins waitlist here!](https://openai.com/waitlist/plugins)
-
 ## Official Resources
 
 - [Getting started With Creating A ChatGPT Plugin](https://platform.openai.com/docs/plugins/getting-started)
@@ -35,7 +31,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing) - An experimental model that knows when and how to browse the internet.
 - [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - An experimental ChatGPT model that can use Python, handle uploads and downloads.
 
-## Plugins From ChatGPT Plugin Store
+## Plugins From ChatGPT Plugin Store (804 Plugins)
 
  **Plugin Name**                  | **Description**                                                                                                                            
 ----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------

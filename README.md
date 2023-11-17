@@ -31,25 +31,31 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing) - An experimental model that knows when and how to browse the internet.
 - [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - An experimental ChatGPT model that can use Python, handle uploads and downloads.
 
-## Plugins From ChatGPT Plugin Store (1004 Plugins)
+## Plugins From ChatGPT Plugin Store (1037 Plugins)
 
- **Plugin Name**             | Plugin Description                                                                                                           
+ **Plugin Name**             | **Plugin Description**                                                                                                       
 -----------------------------|------------------------------------------------------------------------------------------------------------------------------
+ **A Bestever Ad Maker**     | Unlock stunning image ads with just a link. Our Bestever AI scripts, polishes your visuals, and generates magic!             
+ **A Code Library Help**     | Write code and answer questions using Python libraries (e.g Openai, Twilio, etc). Can answer version specific questions      
  **A&amp;A Cards by For.io** | Create beautiful social media cards and cheatsheets with summary lists or data tables, from any text as input.               
+ **A&amp;B Chat With PDF**   | Analyze PDFs by uploading documents or providing URLs. Extract info, query content and unlock insights swiftly!              
  **A&amp;B Summarize!**      | Create summaries of documents (PDF, Word), web pages, books, reviews, YouTube, Reddit &amp; Wikipedia.                       
+ **A&amp;B Web Search!**     | Browse the web using Google search. Discover the latest information online by entering keywords or phrases.                  
  **A/B Analytics**           | A/B test and analyze data from Google Analytics, Facebook Ads and more. Powered by Avian.io.                                 
  **A/B JUDGE**               | Judge whether the A/B test results are superior or not.                                                                      
  **Aalii FileChat**          | File management, in-depth analysis, and quick information retrieval.                                                         
+ **AANote**                  | An AI-Powered chat summarization and article generation tool.                                                                
  **Aardvark AI**             | Search for Products on Google Shopping in Real-Time, No Ads, Only Trusted Stores.                                            
- **Aardwolf ads**            | Unlock stunning image ads with just a link. Our Bestever AI scripts, polishes your visuals, and generates magic!             
+ **Aardvark News**           | Get the latest news stories from around the world, generate tweets and digests from &gt;80,000 trusted global news           
  **Aaron Browser**           | I’ll scrape data from multiple website URLs. Built for Internet crawling, content aggregation, and monitoring.               
  **Aaron Build Resume**      | Create impressive professional resume/CV from scratch or update an existing one. Export as PDF and .docx.                    
- **Aaron Chat PDF**          | I’ll extract, analyze &amp; chat with multiple PDFs or Google Drive documents. Ask questions, get answers &amp; page…        
  **Aaron Code Review**       | I’ll review GitHub code, summarize it &amp; suggest improvements. Submit Git commit details or URL/link for insights.        
  **Aaron Confluence AI**     | Chat with your Confluence wiki. Share your Confluence pages (and other links!) as context, and get personalised…             
+ **Aaron Copywriter**        | I’ll rewrite articles per your instructions. Send me web pages, PDFs, Word docs, Wikipedia, reviews, anything!               
+ **Aaron Cover Letter**      | Create impressive cover letters using your resume and job details. Ideal for job seekers and career changers.                
  **Aaron Docs™ Chat**        | Get an oracle that can answer questions based on your Google Docs™, Slides™ and Sheets™.                                     
+ **Aaron Fill PDF Forms**    | Fill legal forms &amp; complex PDF documents easily! Upload a file, provide data sources and I’ll handle the rest.           
  **Aaron Notion™ Chat**      | Chat with your Notion™ wiki. Share your Notion pages (and other links!) as context, and get personalised answers.            
- **AarticleCreator**         | An AI-based platform designed for rapidly and automatically writing all kinds of articles.                                   
  **ABC Music Notation**      | Converts ABC music notation to WAV, MIDI, and PostScript files.                                                              
  **ABC Website Maker**       | Create web apps, websites, custom code, and more, easy as ABC! Turn prompts/chats into apps in seconds!                      
  **Able**                    | Use store addons without install! Simply type ‘Able PlugName’ for 1-click testing of chat extension and instant.             
@@ -72,18 +78,22 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **AI Agents**               | Unleashing the power of multiple AIs: One goal, limitless productivity.                                                      
  **AI Browse and Sear**      | Combine Google search results with AI, research information from the internet and browse webpages.                           
  **AI Data Analyst**         | Dive into your data like never before. No code, no complex queries; just plain English.                                      
+ **AI Diagrams**             | Create and edit Whimsical Flowcharts and Mind Maps.                                                                          
  **Ai Drive**                | Chat with with all your pdfs files and more. Keep everything organized in your personal Ai Drive.                            
  **AI Extensions**           | Craft your extensions with ease! Step-by-step guidance at your fingertips.                                                   
- **AI Fashion Shopping**     | Search for Shein products through google custom search.                                                                      
  **AI Gift Finder**          | Use the power of AI to find the perfect gift.                                                                                
+ **AI News Roundup**         | Get today’s AI news headlines as a clickable link roundup!                                                                   
  **Ai PDF**                  | Super-fast, interactive chats with PDFs of any size, complete with page references for fact checking.                        
  **AI Quest**                | An interactive text adventure. Your choices shape the AI-crafted narrative. Each playthrough is a unique story and game.     
  **AI Search Engine**        | Search and browse the internet/web using Google Search (SERP) with AI Search Engine. Summarize &amp; chat with PDF and code. 
+ **AI SEO MY SITE**          | Get site score of a website.                                                                                                 
  **AI Theme Finder**         | I’ll find and compare top WordPress themes for your next blog or website. Just provide your preferences.                     
  **Ai Tool Hunt**            | Explore the ideal AI solutions for all use cases, drawn from the most comprehensive global database of AI tools.             
+ **AI Video Chat**           | Ask questions to a youtube video.                                                                                            
  **AI Video Summarize**      | Ask questions, analyzing, and parsing through YouTube videos by simply providing a YouTube video URL.                        
  **AI2sql**                  | Converts a natural language text into an SQL query.                                                                          
  **AI4ERP**                  | Plugin for asking questions related to SAP, including transaction codes, business processes, Fiori Tiles/Apps, etc.          
+ **AILC BioChem**            | AI Learning Companion for Biology and Chemistry. Does 2D and 3D molecule diagrams with highlights and anatomy                
  **AILC History**            | Draw maps of kingdoms, empires and battles. Search for images to illustrate what you are learning. Show timelines.           
  **AIMaster**                | The prompt is too difficult, now you only need to provide the desired prompt keywords, and you can use the prompt.           
  **AIPLUX TM**               | Analyse your business and recommend NICE classifications and items to file for trademarks.                                   
@@ -97,18 +107,22 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Alchemy**                 | Request real-time blockchain data for chains like Ethereum, Polygon, Arbitrum and Optimism through natural language.         
  **Algorand Explorer**       | Algorand blockchain explorer and search with enriched augmented data. Built by GoPlausible!                                  
  **Algorithma**              | Shape your virtual life with in this immersive life simulator game to begin Type /start to begin.                            
+ **Alpha News**              | Alpha News provides access to &gt;80k news sources, letting you search for topics, publications, and trending                
  **AlphaNotes**              | Transform YouTube video courses into your personal study guide, making learning efficient and enjoyable.                     
  **AmazingTalker**           | Elevate your language learning at any level with personalized 1-on-1 online lessons from tutors across the world.            
  **Amazon Finds**            | Find any Amazon product you need.                                                                                            
  **Amazon Gift Chooser**     | Curated gifts for every occasion and special person.                                                                         
  **Ambition**                | Search millions of jobs near you.                                                                                            
+ **AMBOSS**                  | Find reliable medical information provided by AMBOSS, a trusted medical source for thousands of physicians and…              
  **AnaBot**                  | AnaBot is a conversational guide for well-being industry insights and trends.                                                
  **AnalyticsAI**             | Connect to your Google Analytics™ and get data with AI using simple prompts.                                                 
  **Analyze Act**             | An API that provides access to data stored in Analyze Act, collected from Google Analytics.                                  
  **Andorra**                 | All of Andorra with the power of AI.                                                                                         
  **Angi Pro Finder**         | Find top-rated certified pros in your area for all your home projects &amp; services.                                        
  **AnyBarChart**             | Create captivating bar charts with ease. Customize labels, colors, and titles for a tailored visual experience!              
+ **AnyPDF**                  | Easily Extract PDFs from URLs &amp; convert text to PDFs.                                                                    
  **AnySheet**                | Create CSV files and Excel sheets effortlessly and securely.                                                                 
+ **AnySlides**               | Easily Generate Stunning PowerPoint Presentations from Your Data or Any URL.                                                 
  **APEX Map**                | Checking the current APEX Legends Ranked Map.                                                                                
  **API Bot**                 | This is a conversational bot that lets you ask questions about a variety of common APIs.                                     
  **Apify**                   | Scrape Google Search results, crawl websites and query web pages found, and browse individual web pages.                     
@@ -116,6 +130,8 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Appy Pie App Builder**    | AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input.                     
  **Argil AI**                | Generate images without learning how to prompt.                                                                              
  **ArtCollection**           | Search through millions of art pieces from The Metropolitan Museum of Art.                                                   
+ **ArticleCreator**          | An AI-based platform designed for rapidly and automatically writing all kinds of articles.                                   
+ **arXiv Xplorer**           | Discover, read, reference, and search through all arXiv papers.                                                              
  **ASH**                     | ASH by lagogal.com. Currently it provides currency converter.                                                                
  **Ask About Austin**        | A tool that allows the user to get information about Austin Poor.                                                            
  **Ask Link Bot**            | Conversational bot to ask a question about a link and receive an answer based on that.                                       
@@ -137,17 +153,19 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Astrodaily**              | Search and discover NASA images.                                                                                             
  **Astrology**               | Discover your cosmic DNA. Dive into your exact birth (natal) chart for growth, purpose, and healing.                         
  **ATSResumeCopilot**        | Tailor your resume for a job description &amp; get discovered By ATS. Say ‘Review my Resume’. Powered by Maigrate.           
+ **Aurora**                  | A conversational bridge to your Philips Hue Lights. Shape your ambiance with a simple chat.                                  
  **Aus Petrol Prices**       | Ask for the average daily petrol price for any state or capital city region in Australia!                                    
  **Aus Surf Report**         | Get today’s surf report for any break throughout Australia!                                                                  
  **Austrian Bank Rates**     | Compare the rates and terms of checking accounts and savings accounts from Austrian banks.                                   
  **Auth Network Monit**      | Elevate network monitoring with real-time, quantum-ready, HTTP, ICMP, DNS, SMTP checks, this tool alerts you 24/7.           
  **Auto Prompt**             | Save time by queuing your prompts to run one after the other.                                                                
  **AutoInfra1**              | Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh!                                                  
+ **Autolab Causality**       | Calls Autolab to compute bounds on causal queries.                                                                           
+ **Autoleaf**                | Autoleaf reads raw LaTeX from your paper library to assist you in writing scientific articles.                               
  **Avalara**                 | Calculate sales tax or lookup tax rates for any address in the U.S.                                                          
  **Avian**                   | Connect to your business data – Google Analytics, Google Ads, Facebook Ads and more.                                         
  **B12 AI Websites**         | Create a professional, engaging, and user-friendly website for your business in seconds using AI.                            
  **B12 Email marketing**     | Send high-quality emails in minutes that engage contacts and sell your services within minutes.                              
- **B12 No-code AI**          | Bring AI to your business with no-code forms to attract leads, analyze data, and increase efficiency.                        
  **B12 Scheduling**          | Bring online scheduling to your business and enable your customers to book appointments in minutes.                          
  **Back4App**                | Use natural language to create, deploy, and scale apps, backend, databases, cloud functions, web pages, and APIs.            
  **Bardeen**                 | Create and run automations on the most popular web services.                                                                 
@@ -205,18 +223,19 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Change**                  | Discover impactful nonprofits to support in your community and beyond.                                                       
  **Charge My EV**            | Locate EV charging stations by various providers, including Tesla supercharger locations.                                    
  **CharitySense**            | Get data on US-based non-profits including mission, key people, governance, ratings and financial data.                      
+ **Charts &amp; Diagrams**   | Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.                                        
  **Charts by Kesem AI**      | Generate charts. The user can request a chart to be generated.                                                               
  **Chat TMDB**               | Movies, Actors and TV shows from TMDB, a database like IMDB.                                                                 
  **Chat Tool Finder**        | Find the tool in here that can help you. Search by name, category or description.                                            
  **Chat with Bible**         | Intuitively explore scriptures. Find relevant verses, understand parables, and gain insights.                                
  **Chat with calendars**     | Manage your Google Calendar. View events, schedule appointments, and stay organized.                                         
  **Chat With Excel**         | Transform your spreadsheet interactions and analysis by conversing as if you were a friend.                                  
+ **Chat With Many URLs**     | Enter multiple URLs and chat with their text!                                                                                
  **Chat With Workspace**     | Chat with your Notion workspace.                                                                                             
  **Chat With Your Data**     | Conversational analysis over your databases and spreadsheets.                                                                
  **ChatAFI**                 | Search through select AFIs.                                                                                                  
  **ChatBlog**                | Use AI to write quality blog like humans. Work for your SEO rankings, not just efficiency!                                   
  **ChatFeedSync**            | Easily synchronize, manage, and translate your RSS feeds all in one place.                                                   
- **ChatRakuJourney**         | Search for Rakuten services in Japan. You can easily search for products, facilities in travel, and more.                    
  **ChatOCR**                 | The best way to read text from any document. Extract text from scanned PDFs, photos, and even handwriting.                   
  **ChatRakuJourney**         | Search for Rakuten services in Japan. You can easily search for products, facilities in travel, and more.                    
  **ChatSSHPlug**             | Ability to SSH into your server and turn your natural language into server commands.                                         
@@ -243,6 +262,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Clinical Trial Radar**    | Clinical trial discovery tool for patients, caregivers, HCPs &amp; Biotech pros.                                             
  **CLINQ**                   | Manage your CLINQ Account. Retrieve infos about calls, create call reminders and more.                                       
  **Close CRM**               | Access your Close CRM data. Understand your leads, get deeper insights, and make them actionable.                            
+ **Clothing Shopper**        | Get the absolute best clothing deals through AI recommendations.                                                             
  **Cloud Diagram Gen**       | Generate cloud architecture diagrams. Unofficial AWS plugin.                                                                 
  **Cloudflare Radar**        | Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare.                                     
  **CMoney Portfolio**        | Analyze Taiwan stocks and get exclusive investing data from leading fintech CMoney in Taiwan.                                
@@ -269,6 +289,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Convert Assistant**       | Provides guidance regarding Convert.com’s AB testing tool.                                                                   
  **Converter App**           | Convert currencies or files like images and videos from web links and Google Drive to other formats, or work with PDFs.      
  **CoPilot**                 | Searches every dealer, analyzes &amp; ranks every car for you so you can buy with confidence.                                
+ **Copywriter**              | Enter any URL and get sales copywriting suggestions for the page!                                                            
  **Coq Checker**             | Check Coq code.                                                                                                              
  **Coupert**                 | Search for the internet’s best coupons from thousands of online stores.                                                      
  **Coupons by Tenere**       | TenereTeam.com – Get the Best Deals &amp; Coupons on Millions of Products At Over 50,000 Online Stores.                      
@@ -312,6 +333,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Decision Diagrams**       | Create and edit diagrams directly in chat.                                                                                   
  **Decision Journal**        | Become a better decision maker by keeping track of your decisions and reviewing how they turn out.                           
  **Decision Matrix**         | Get decision and return back a matrix of decision types.                                                                     
+ **DecisionConsultant**      | Using the most powerful AI to simulate top human experts for professional decision-making support.                           
  **Deep Memory**             | Create flashcards and review them on Deep Memory, a spaced repetition app.                                                   
  **Defillama**               | Retrieve data on DeFi protocols and blockchains.                                                                             
  **Definitive Facts**        | Ask questions using 100+ relational datasets – sports, finance, and more at https://definitive.io/datasets.                  
@@ -351,7 +373,6 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Earthquake Info**         | Get latest earthquake information.                                                                                           
  **Easy Product Search**     | Easy Product Search simplifies shopping on Japanese EC sites using keywords. It providing product info.                      
  **Easy Resume**             | Quickly create and edit your resume with the option to download as a docx or pdf, and find the job you deserve!              
- **Ebay Finds**              | Find any eBay product you need.                                                                                              
  **Edmunds Cars**            | Use Edmunds to get trusted car reviews and local new and used vehicle listings.                                              
  **Eduguide**                | A tool designed to respond to college admission-related inquiries.                                                           
  **edX**                     | Find courses and content from leading universities to expand your knowledge at any level.                                    
@@ -408,6 +429,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **GameSight**               | Discover games, game-related content, get recommendations, and compare games based on player reviews.                        
  **GaryVee By Spext**        | Chat with the GaryVee Keynote Speeches Library on Spext.                                                                     
  **Gate2AI**                 | Discover the perfect AI tools for your needs.                                                                                
+ **Gerrit for Chromium**     | Search Gerrit Code Review for Google Chrome. Helps analyzing code changes, bugs, features, and more.                         
  **Get Social Proof**        | Create engaging testimonials, customer stories and case studies using AI-powered interviews.                                 
  **GetByBus**                | GetByBus is online travel platform selling bus and ferry tickets for more than 5000 operators.                               
  **GetYourGuide**            | Find tours, excursions and other travel activities.                                                                          
@@ -421,6 +443,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Gimmee Air Quality**      | Planning something outdoors? Get the 2-day air quality forecast for any US zip code.                                         
  **Git OSS Stats**           | Dynamically generate and analyze stats and history for OSS repos and developers.                                             
  **Glamai**                  | The ultimate beauty app to find makeup and skincare that match your needs. Like “a non-sticky sunscreen for traveling”.      
+ **GlassBot**                | An interactive plugin for 1-800-glass!                                                                                       
  **Glowing**                 | Schedule and send daily SMS or WhatsApp messages – reminders, inspiration, helpers and more.                                 
  **Go!**                     | Go! for personalized workout plans, fitness tips, and meal recommendations.                                                  
  **GoDaddy Name Search**     | Search and check the availability of domain names using GoDaddy.                                                             
@@ -448,6 +471,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Horoscopes**              | Daily, weekly, and monthly horoscopes tailored to you. Brought to you by Inner Self.                                         
  **Hot Pepper Gourmet**      | You can easily find restaurants in Japan listed in “Hot Pepper Gourmet”.                                                     
  **How Long To Beat**        | Find out how long it takes to beat any game!                                                                                 
+ **HTML Builder**            | Build, view, and edit HTML &amp; CSS (+ Tailwind) website components with prompts — no code required.                        
  **HTTP Webhooks**           | Allows you to write, deploy, and manage HTTP Webhooks in JavaScript, right from the chat.                                    
  **Hubbub**                  | Local health risk &amp; safety guidance for COVID-19, Flu, RSV and more in the US.                                           
  **HubCart POD Designer**    | Brainstorm print-on-demand design ideas, then make POD designs. Created with DALL·E.                                         
@@ -455,7 +479,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **I Am Rich**               | Proudly declare ‘I am rich’.                                                                                                 
  **I Ching**                 | Unlock ancient I-Ching wisdom: embrace spirituality, ignite creativity &amp; conquer life’s changes!                         
  **Ibotta Shopping**         | Your perfect shopping companion! Search for products from thousands of retailers. Only available in the US.                  
- **IdeaOrganiser**           | Organise and store your notes on Notion. Make your note taking smarter, easier and more effective.                           
+ **idealo Best Price**       | ind the products you need and great savings comparing products and prices from thousands of trusted shops, ads-…             
  **Idea Organiser**          | Organise and store your notes on Notion. Make your note taking smarter, easier and more effective.                           
  **Image Converter**         | Convert an image to any other image format.                                                                                  
  **Image Editor**            | Edit images seamlessly, resize, crop, blur and many more embedded features.                                                  
@@ -468,14 +492,9 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Instacart**               | What’s cookin’? Ask about recipes, meal plans, &amp; more — and get ingredients delivered from 40,000+ stores!               
  **Interest Rates**          | Get Real Time Interest Rates From Central Banks                                                                              
  **Invoice**                 | I’ll create professional good-looking invoices. Download as PDF or Word. Built for small businesses.                         
- **Invoice Pilot**           | Easily create an invoice or estimate as a PDF file.                                                                          
- **Instacart**               | What’s cookin’? Ask about recipes, meal plans, &amp; more — and get ingredients delivered from 40,000+ stores!               
- **InstaSite**               | Ask to create a landing page – get a one-page website that can be a presentation of your project.                            
- **Interest Rates**          | Get Real Time Interest Rates From Central Banks                                                                              
- **Invoice**                 | I’ll create professional good-looking invoices. Download as PDF or Word. Built for small businesses.                         
- **Invoice Pilot**           | Easily create an invoice or estimate as a PDF file.                                                                          
  **Invoices**                | Create and customize PDF invoices or estimates in seconds.                                                                   
  **io.livecode.ch**          | Evaluate snippets of code using io.livecode.ch.                                                                              
+ **IoTHub**                  | IoTHub: Control your Ecobee Thermostats and IoT devices from anywhere.                                                       
  **Isotonix**                | Isotonix products search.                                                                                                    
  **ISS Location**            | Add-on for displaying the current coordinates of the ISS and the names of the current astronauts in space.                   
  **Italy Latest News**       | Get the most recent news from Italy.                                                                                         
@@ -487,13 +506,16 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **JiggyBase**               | Use the knowledge in your JiggyBase document collections to help produce factual, up-to-date chat responses.                 
  **Jini**                    | Get factual, knowledge-base and real-time information. Search news, images, videos, music, apps, pages and facts.            
  **Jio**                     | Explore TiraBeauty, JioCinema, JioMart, and JioFiber in one go. Shop, stream, and surf with ease!                            
+ **JIRA Issue Helper**       | Create, read, update, and delete JIRA issues.                                                                                
  **JiraTalk**                | Boost Jira’s efficiency via automated project management operations, strategic user insights, and detailed analytics.        
  **Job Cover Letter**        | I’ll make a powerful, ATS-friendly cover letter for your job application. Ideal for email or LinkedIn use.                   
  **Job Description**         | I’ll write you an effective job description that attracts top-quality talent for your next interview.                        
  **Job Interview**           | I’ll prepare you for a job interview by asking questions and providing feedback.                                             
+ **Job Offers Copilot**      | I’ll create good-looking PDF job offers for business owners, HR and recruiters to enhance the hiring process.                
  **Job Search**              | Searching for jobs made easy.                                                                                                
  **Job search by Indeed**    | Explore &amp; discover the latest open jobs from the #1 job site in the world, Indeed.com.                                   
  **Job Search UK**           | Get the latest job posts from the UK’s top job boards including Reed, Indeed, and others.                                    
+ **jobs.ch job search**      | Find your dream job in Switzerland. 100’000+ job openings await you!                                                         
  **Jobsearch**               | This is a job search service. For now only for jobs in Germany.                                                              
  **Jooii**                   | Chat with jooii to discover millions of products, with personalized recommendations made easy.                               
  **JoPilot**                 | Search for US jobs by keywords, locations, employers, salaries, and commute time.                                            
@@ -538,7 +560,6 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Little Professor**        | Little Professor creates student tests for classroom teachers to enhance school education.                                   
  **Live Game**               | Get real-time scores and news updates from the world of eSports. LOL, Dota2, CS:GO, PUBG live scores and news.               
  **liveinboxer**             | Get the latest email from top brands.                                                                                        
- **LivingAI**                | Create digital beings instantly with LivingAI – the most advanced AI video generation platform.                              
  **Local by GoodCall**       | Discover and support restaurants, shops &amp; services near you. 🍽️ 🛍️ 🔧                                                  
  **Love Coupons**            | Find money saving coupon &amp; discount codes for over 30,000 stores around the world.                                       
  **Lsong AI**                | Lsong’s AI provides AI-powered content like news, images, music, movies, weather, stories, memes, and more.                  
@@ -578,7 +599,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **MightyOwl K-8**           | MightyOwl is a K-8 educational resource offering fun and engaging videos, quizzes and worksheets.                            
  **Million Dollar Ads**      | They stacked a million dollars to catch your eye! Browse the gallery of marketing masterpieces.                              
  **Mindart**                 | Career test to help you find your dream job, with automation risk and average salary.                                        
- **MindfulDataAI**           | Search with Google. You can search the web with Google when you are asking a question about something recent.                
+ **MindfulDataAI Search**    | Google-powered web searches with ChatGPT. Provides up-to-date information on recent events, trending topics, and more.       
  **Minecraft Chocolate**     | Ask for recomendations about Minecraft mods and modpacks. Uses Modrinth API.                                                 
  **Mini Games**              | Play text based games in your chat! Hangman, tictactoe, adventures, or make your own!                                        
  **Mini Habits**             | Form new habits through small, daily actions.                                                                                
@@ -622,6 +643,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Murder Mystery**          | Unleash your inner detective! Choose era, theme, victim &amp; challenge. Solve your own crime!                               
  **Music**                   | Generate music, compose music, create music and listen to music. Save music and refer it in the future.                      
  **My Writing Companion**    | Find, hire, and manage remote human writers, the best way to ensure your content is engaging, accurate, and error-free.      
+ **Mybest**                  | Find out which products are best for you in Japan. You can ask for recommended products.                                     
  **MySkinRoutine**           | Crafting the perfect care routine for your unique skin.                                                                      
  **myTomorrows Search**      | Discover and filter clinical trials worldwide; updated daily.                                                                
  **NamePedia**               | Behind every name is a story: uncover origins, trends, and famous bearers.                                                   
@@ -631,6 +653,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **ne.tools**                | Network diagnostic tool for DNS record lookup (A, AA, MX, NS and more) and WHOIS queries for domains and IP addresses.       
  **Netlify Drop**            | Describe a simple website you want to make, and deploy it to Netlify to share it with others and claim it as your own.       
  **Newegg PC Builder**       | Build and purchase a custom gaming PC based on your budget and needs.                                                        
+ **News**                    | The most popular global news app, digest 80,000+ trusted sources for the latest news, trends, and insights in a flash!       
  **NewsBreak**               | Learn about the most popular local or national news and find local businesses and events in the United States.               
  **Newsimoji**               | A fun game where you guess a news story based on solely on emojis.                                                           
  **NewsPilot**               | Breaking global news in brief, 15000 news sources from worldwide.                                                            
@@ -678,7 +701,6 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Paxi AI**                 | Let AI tools speed up your tasks! Make it easy to find the right tool for the task.                                          
  **PayPay gourmet**          | You can find restaurants in Japan from PayPay gourmet in Japanese. Output may differ from PayPay gourmet.                    
  **PDF Creator**             | Create a PDF file in seconds.                                                                                                
- **PDF Magic**               | Create beautiful PDFs instantly. Resumes, cover letters, reports, agreements, forms, and more.                               
  **PDF Reader**              | Access and chat with PDF links. This allows you to ask questions, summarize, simplify, or rewrite the PDF content.           
  **Peel Hunt AI-ERA**        | AI Equity Research Assistant (AI-ERA).                                                                                       
  **Penrose Analyst**         | Search global news and research papers. Summarize Arxiv.org links. Ask me for the latest news!                               
@@ -686,6 +708,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Persona**                 | Dive into simulated chat adventures with your beloved heroes, experts, and celebs!.                                          
  **Photorealistic**          | Generate Photorealistic prompts for Midjourney.                                                                              
  **Piano**                   | Learn and play piano with the world’s smartest musician.                                                                     
+ **Pictory.ai**              | Script-to-Video: Effortless, quick, and vivid storytelling.                                                                  
  **Ping Task Assistant**     | Add your own TODOs, plan and delegate tasks. Automatically assign projects and people.                                       
  **Pixellow**                | Pixellow: Unveiling image insights, aiding understanding, and creating detailed captions and descriptions.                   
  **Placid.app**              | A design assistant that creates marketing visuals from your templates.                                                       
@@ -751,6 +774,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Receipt Assistant**       | Manage receipts with Sparrow. You can read, store and review your receipts.                                                  
  **Recipe Finder**           | Explore meals for all diets: vegan, keto, gluten-free. Dive into curated foods and ingredients. Elevate your cooking.        
  **Recombinant AI™**         | Input a Github repo URL. Get a holistic,deep, relational understanding of the codebase.                                      
+ **Recommend OP**            | Add 'RECOP' to your prompt to get relevant OpenPlugin-supported plugins recommended with sandboxes.                          
  **Recruiter. Interview**    | I’ll help recruiters, employers, and business owners prepare for job interviews to enhance the hiring process.               
  **Redesign Resume/CV**      | I’ll redesign your resume or CV, optimize for ATS and tailor it to your targeted job role.                                   
  **Reflect Notes**           | Creates a Reflect note.                                                                                                      
@@ -802,10 +826,15 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Sentiment Analysis**      | Sentiment Analysis.                                                                                                          
  **SEO**                     | Enter any URL and keyword and get an On-Page SEO analysis &amp; insights!                                                    
  **SEO Assistant**           | The SEO Assistant can generate search engine keyword information in order to aid the creation of content.                    
+ **SEO Audit**               | Technical SEO report and website audit tool. Check your webpage health for SEO rankings.                                     
+ **SEO Blog Writer**         | Generate Quality, Human-like, SEO-Optimized Multilingual Blogs &amp; Publish Instantly to WordPress!                         
+ **SEO Content Marketi**     | SEO tool for your Shopify store, ecommerce website or any business. Create strategy, blogs and socia.                        
  **SEO CORE AI**             | Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.                        
+ **SEO Score Rate**          | Guide Your Content Quality with Google E-E-A-T: Continuously Elevate Your SEO Ranking!                                       
  **SEO.app**                 | Your personal SEO assistant for content marketing.                                                                           
  **Serpstat SEO Tool**       | Discover SEO keywords for a specific topic and analyze SEO metrics/backlink data for a domain with Serpstat.com.             
  **Service Check**           | Check if services are running and how fast they are responding. You can check Website, Email, Domain Lookup and Ping.        
+ **Sesotec**                 | Sesotec answer your questions about Sesotec products and services.                                                           
  **SG Parking**              | Offers real-time HDB carpark availability in Singapore. Search by address for nearby parking space info.                     
  **Shein Discovery**         | Get your fashion and lifestyle recommendations from Shein.                                                                   
  **Shop**                    | Search for millions of products from the world’s greatest brands.                                                            
@@ -845,7 +874,6 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **SPARQL Query**            | Returns Query Solution Page for Query Text.                                                                                  
  **Speak**                   | Learn how to say anything in another language with Speak, your AI-powered language tutor.                                    
  **Speechki**                | The easiest way to convert texts to ready-to-use audio — download link, audio player page, or embed!                         
- **Speedy SEO Marketing**    | SEO tool for your Shopify store, ecommerce website or any business. Create strategy, blogs and social content.               
  **Spendless**               | Discover personalized Amazon products at unbeatable prices. Now available in the US.                                         
  **Spirify QR Code**         | QR Code generator for text or URLs. It’s a general-purpose tool that also enables QR code puzzle games with AI.              
  **Splitgraph**              | Search thousands of public datasets available on the Splitgraph Data Delivery Network.                                       
@@ -880,10 +908,12 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Take Code Captures**      | Capture, beautify, and share your code snippets easily.                                                                      
  **TalentOrg**               | Find and hire freelance engineering talents from around the world.                                                           
  **Talk Law Brazil**         | Interact with laws and bills in progress in the Brazilian Congress.                                                          
+ **Talk With Code**          | Send GitHub link and ask any aspect of the code.                                                                             
  **Talk With Docs**          | Ask any questions to your docs.                                                                                              
  **TalkFPL**                 | Talk with AI to help you manage your FPL team. Compare players, transfer options and more.                                   
  **Tan Pilot**               | Provides optimized web access ability.                                                                                       
  **Tarot**                   | Experience powerful, personalized readings. Let the cards give you spiritual insight and guidance.                           
+ **Taskade**                 | Taskade, the AI-Powered Productivity Platform.                                                                               
  **TaskML**                  | Manage your projects and tasks. Quickly create projects, add tasks / todos, and mark them as done.                           
  **TaskOracle**              | Hey Neo, take the red pill less, let me guide you with the optimal tools to smash your to-do list like Hulk.                 
  **Tasty Recipes**           | Discover recipe ideas, meal plans and cooking tips from Tasty’s millions of users!                                           
@@ -914,7 +944,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Tokyo OpenData**          | Search for OpenData in Tokyo, using the Tokyo OpenData Catalog Site.                                                         
  **Tomorrow.io Weather**     | Predicting, planning, and adapting to the weather forecast via contextualized chat-based insights.                           
  **TomTom**                  | Explore maps, get traffic updates, find destinations, plan routes and access local insights.                                 
- **Too Long Didn't Read**    | Enter any URL and have the text content summarized for you!                                                                  
+ **Too Long Didn’t Read**    | Enter any URL and have the text content summarized for you!                                                                  
  **Toolblox**                | Text to smart-contract. Describe a process to generate a smart-contract and deploy to any blockchain.                        
  **Top Agencies**            | Find top marketing and design agencies around the World by service, locations, and ratings.                                  
  **Topical Authority**       | AISEO topical authority tool will generate the topical authority for any topic and helps you dominate your                   
@@ -943,16 +973,17 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Typeform**                | Create forms, quizzes, and surveys—designed to stand out.                                                                    
  **TypeScript Analyzer**     | Analyzes TypeScript, JSX/TSX, and JavaScript files for linting, autocompletion, error checking, and                          
  **Uberchord**               | Find guitar chord diagrams by specifying the chord name.                                                                     
- **UK House Prices**         | Provides information on UK House Prices and Sales.                                                                           
  **UK Latest News**          | Get the latest news stories from the UK’s top news outlets including BBC News, Sky News, The Independent, and                
  **UK Politics**             | Search through UK political documents such as speeches, press releases, voting records, and candidates’ profiles.            
  **Ukr-School-Books**        | Interact with a books database. List, get content, and find books.                                                           
  **Universal**               | Enables to access web pages, analyze PDFs, generate QR codes, etc.                                                           
- **UOL**                     | I deliver a selection of the main news and the important events of the day to inform you. Native language:...                
+ **UOL**                     | I deliver a selection of the main news and the important events of the day to inform you. Native language:…                  
  **Upskillr**                | Custom curriculum, lesson plans, and upskilling support on any topic by Upskillr. Powered by Shorthills Tech.                
  **Urban Ladder**            | Search &amp; Browse from Urban Ladder Product Catalog.                                                                       
+ **URL Data Scraper**        | Rapidly get text, PDF, or images from any url.                                                                               
  **US Federal Law**          | Get up to date access to Federal law.                                                                                        
  **UwU Translator**          | Use this to translate text into ‘UwU’ language.                                                                              
+ **VainSoftGames**           | Plugin for all your video game needs. Details on the latest games, including images, reviews &amp; videos.                   
  **ValidatorAI**             | Get objective feedback and an elevator pitch for your business idea.                                                         
  **VBOUT AI MARKET**         | Create email campaigns, manage leads and schedule social posts in VBOUT, using simple prompts.                               
  **Vehicle Data IL**         | An Israel-focused tool, extracting car details from data.gov.il based on model, year, hue, and count.                        
@@ -962,6 +993,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **Video Captions**          | Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.            
  **Video Highlight**         | Explore, research, and interact with YouTube videos and personal videos.                                                     
  **Video SEO Copilot**       | I’ll write &amp; update YouTube video descriptions from transcripts, identify SEO keywords, and boost video                  
+ **Video Summary**           | I’ll create YouTube video summaries from transcripts and provide concise content overview with timestamps.                   
  **Video Summary**           | Summarize YouTube video highlights. Generate summaries from YouTube video URLs.                                              
  **VideoInsights.io**        | VideoInsights.io lets you interact with online video platforms like Youtube, Zoom or BiliBili.                               
  **vidIQ**                   | Discover and summarize trending videos on YouTube.                                                                           
@@ -999,11 +1031,10 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **WebRewind**               | Get the picture of a website at a specific date.                                                                             
  **Website Builder**         | Generate websites for businesses in Chat, presentations, finance, charts, diagrams, document,pdf.                            
  **Website Performance**     | Measure key metrics about your website – performance, accessibility, best practices, SEO, PWA.                               
+ **websitestoreAI**          | An interactive plugin for websitestore.                                                                                      
  **Welt NewsVerse**          | Stay informed with the latest news from welt.de.                                                                             
  **What To Watch**           | Search for current TV shows and movies, get recommendations, and find out where things are streaming.                        
  **What’s trending?**        | Explore trending searches, keywords, &amp; hashtags by topic across YouTube, Instagram, Amazon, and Google.                  
- **Whimsical Diagrams**      | Create and edit flowcharts and mind maps.                                                                                    
- **WhizList**                | Your go-to for creating amazing Spotify playlists.                                                                           
  **Whois Domain Checker**    | A Whois app that takes a list of space-separated domain names, performs the Whois for each domain.                           
  **WikiDocs**                | You can search for books on Wikidocs and create books.                                                                       
  **Wikipedia**               | Ask questions about general knowledge, current events, and breaking news, and get up-to-date answers from Wikipedia.         
@@ -1017,6 +1048,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **WORDLY – WORD Game**      | Play Guess the WORD AI game. You need to guess a 5 letter word! Start by asking to play WORDLY game.                         
  **Words Pro**               | Dive into an endless sea of five-letter mysteries. Can you decode them all?                                                  
  **Workout Generator**       | Create strength training workouts, for goals like muscle building, strength, and fat loss.                                   
+ **Workoutlytics**           | Your personal guide to peak performance with Strava. Track heart rate, progress &amp; tips.                                  
  **World Bank Data**         | Access global data on development, economics, demographics, and more from the World Bank Datasets using a query term.        
  **World News**              | Summarize news headlines. You can ask for the latest news from various sources around the world.                             
  **World Records**           | Step into a world that celebrates the highest levels of human accomplishment. Witness the records!                           
@@ -1034,11 +1066,12 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
  **YouTube Summaries**       | Insights &amp; Summaries for YouTube videos.                                                                                 
  **YT Caption Retriever**    | Tool for retrieving YouTube video captions. You can retrieve captions from any YouTube video by providing its URL.           
  **YT Summarizer**           | 💯Free YouTube Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.                         
+ **Z3 Checker**              | Calls the Z3 verifier on an SMT-LIB specification.                                                                           
  **Zapier**                  | Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.                           
  **Zefira Thoth Tarot**      | Draw and interpret Tarot cards, and perform text-based search on Tarot card information.                                     
  **Zeo Route Planner**       | Plan your routes efficiently with Zeo Route Planner. Perfect for deliveries, road trips, or city tours.                      
  **ZeroBounce**              | Validate email addresses using the ZeroBounce API.                                                                           
- **Zhibo8 Sports**           | Provides schedules for NBA, CBA, CSL, Premier League, Serie A, La Liga, Bundesliga, and Ligue 1.                                                      
+ **Zhibo8 Sports**           | Provides schedules for NBA, CBA, CSL, Premier League, Serie A, La Liga, Bundesliga, and Ligue 1.                                                                          
 
 ## Third-party Plugins
 

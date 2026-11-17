@@ -1081,6 +1081,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [bra1nDump](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in seconds without even leaving the chat.
 - [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - A TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code.
 - [kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
+- [Firecrawl](https://www.firecrawl.dev/integrations/chatgpt) - Official Firecrawl plugin for ChatGPT and Codex: search, scrape, crawl, and interact with the live web, plus structured data from Firecrawl Alexandria.
 
 ## More Resources
 
